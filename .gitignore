@@ -1,2 +1,4 @@
 *.dat
 results/
+.Rproj.user
+*.Rproj
